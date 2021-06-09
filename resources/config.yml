@@ -1,0 +1,17 @@
+# FightPopup Configuration File
+
+# Format:
+
+# TAGS:
+#  - {name} - Name Of The Entity or Player that has been attacked.
+#  - {reach} - The distance between the Entity or Player and the Attacker.
+#  - {cps} - The current CPS (clicks per second) of the Attacker.
+#  - {health-attacked} - The current health of the Entity or Player that has been hit.
+#  - {health-attacker} - The current health of the Attacker.
+#  - {combo} - The current combo that the Attacker has.
+format: "{name}'s Health: {health-attacked} Your Health {health-attacker} Combo: {combo} Reach: {reach} CPS: {cps}"
+
+# The Worlds That The Popup Wont Appear In:
+restricted-worlds:
+  - "world-restricted-1"
+  - "world-restricted-2"

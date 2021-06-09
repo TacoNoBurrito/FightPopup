@@ -1,0 +1,7 @@
+name: FightPopup
+description: "Show Combo, Distance, and CPS Whilst Fighting."
+author: Taco
+website: "https://github.com/TacoNoBurrito"
+api: "3.0.0"
+main: Taco\FP\Loader
+version: 1.0.0
