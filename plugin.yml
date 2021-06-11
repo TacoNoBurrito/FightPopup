@@ -5,3 +5,4 @@ website: "https://github.com/TacoNoBurrito"
 api: "3.0.0"
 main: Taco\FP\Loader
 version: 1.0.0
+mcpe-protocol: 440
