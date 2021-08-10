@@ -4,5 +4,5 @@ author: Taco
 website: "https://github.com/TacoNoBurrito"
 api: "3.0.0"
 main: Taco\FP\Loader
-version: 1.0.0
+version: 1.0.1
 mcpe-protocol: 448
